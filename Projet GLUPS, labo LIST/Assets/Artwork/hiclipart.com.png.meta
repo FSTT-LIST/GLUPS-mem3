@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 349a817eebc881b4186639f75419b689
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4848640753749312117
+    second: hiclipart.com_0
+  - first:
+      213: -1438897376738555470
+    second: hiclipart.com_1
+  - first:
+      213: -8292495619121418442
+    second: hiclipart.com_2
+  - first:
+      213: 7664726627201700364
+    second: hiclipart.com_3
+  - first:
+      213: -5042554494409634194
+    second: hiclipart.com_4
+  - first:
+      213: -7133161326709455817
+    second: hiclipart.com_5
+  - first:
+      213: -6489398562499320085
+    second: hiclipart.com_6
+  - first:
+      213: -8597578898581656330
+    second: hiclipart.com_7
+  - first:
+      213: -1324372868889471535
+    second: hiclipart.com_8
+  - first:
+      213: 2859829973177693659
+    second: hiclipart.com_9
+  - first:
+      213: -5765042486197667397
+    second: hiclipart.com_10
+  - first:
+      213: 8852898655901281376
+    second: hiclipart.com_11
+  - first:
+      213: -6195617645508619133
+    second: hiclipart.com_12
+  - first:
+      213: -1503868848301044417
+    second: hiclipart.com_13
+  - first:
+      213: 2732535476182167641
+    second: hiclipart.com_14
+  - first:
+      213: -4303668296277180254
+    second: hiclipart.com_15
+  - first:
+      213: 8084156564213710169
+    second: hiclipart.com_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hiclipart.com_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 673
+        width: 162
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3a457cea26bcb0800000000000000
+      internalID: -4848640753749312117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 741
+        width: 258
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c14f9572080ce0800000000000000
+      internalID: -1438897376738555470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 703
+        width: 172
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe8c08b232bec80800000000000000
+      internalID: -8292495619121418442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 697
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d5da02449e5a60800000000000000
+      internalID: 7664726627201700364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 405
+        width: 223
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0a28676f350ab0800000000000000
+      internalID: -5042554494409634194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 439
+        width: 272
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734cde3019be10d90800000000000000
+      internalID: -7133161326709455817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 461
+        width: 249
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62c44c36601f5a0800000000000000
+      internalID: -6489398562499320085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 416
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc65ad2b834fa880800000000000000
+      internalID: -8597578898581656330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d59daf74e1ee9de0800000000000000
+      internalID: -1324372868889471535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 107
+        width: 237
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd57545653820b720800000000000000
+      internalID: 2859829973177693659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 100
+        width: 332
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9372f37647effa0800000000000000
+      internalID: -5765042486197667397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 94
+        width: 93
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c67814c60dbda70800000000000000
+      internalID: 8852898655901281376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_12
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 70
+        width: 117
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841153c39eb40aa0800000000000000
+      internalID: -6195617645508619133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 71
+        width: 117
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8d34104f212be0800000000000000
+      internalID: -1503868848301044417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_14
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 70
+        width: 117
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950bdf9b98aebe520800000000000000
+      internalID: 2732535476182167641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 66
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c9418c7c4644c0800000000000000
+      internalID: -4303668296277180254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiclipart.com_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 59
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db99e3091b03070800000000000000
+      internalID: 8084156564213710169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

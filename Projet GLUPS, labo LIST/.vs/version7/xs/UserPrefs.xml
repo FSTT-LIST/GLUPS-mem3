@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BA3519E0-644F-2179-3835-A75F9BC2D3F5}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="version7" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="audio" expanded="True" />
+              <Node name="score Assets" expanded="True">
+                <Node name="scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Level1" expanded="True" />
+                <Node name="Level2" expanded="True">
+                  <Node name="Scripts level2" expanded="True" />
+                </Node>
+                <Node name="Reload Scripts" expanded="True">
+                  <Node name="ReloadLevel1.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1fba1f5e-feab-40e9-b63b-97639acb8a39" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

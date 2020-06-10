@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B7934205-B52D-5717-B340-D105C313DA91}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level1/Trou6.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Level1/DDCreuser.cs" Line="85" Column="23" />
+      <File FileName="Assets/Scripts/Level1/DDGrain.cs" Line="88" Column="27" />
+      <File FileName="Assets/Scripts/Level1/DDArrosoir.cs" Line="91" Column="1" />
+      <File FileName="Assets/Scripts/Level1/Trou1.cs" Line="76" Column="33" />
+      <File FileName="Assets/Scripts/Level1/Trou2.cs" Line="81" Column="31" />
+      <File FileName="Assets/Scripts/Level1/Trou3.cs" Line="11" Column="25" />
+      <File FileName="Assets/Scripts/Level1/Trou4.cs" />
+      <File FileName="Assets/Scripts/Level1/Trou5.cs" Line="71" Column="14" />
+      <File FileName="Assets/Scripts/Level1/Trou6.cs" Line="76" Column="100" />
+      <File FileName="Assets/Scripts/Level1/StopCollisionsObjects.cs" Line="11" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="level1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Level1" expanded="True">
+                  <Node name="Trou6.cs" selected="True" />
+                </Node>
+                <Node name="Level2" expanded="True">
+                  <Node name="scripts Level2 S3" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61c74864-8572-40a6-ad50-560f4a993a07" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

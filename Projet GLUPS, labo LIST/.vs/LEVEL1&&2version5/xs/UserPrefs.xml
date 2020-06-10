@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{076A32E1-1270-C3CD-BE28-07F4B6FB9751}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LEVEL1&amp;&amp;2version5" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Level1" expanded="True">
+                  <Node name="Trou1.cs" selected="True" />
+                </Node>
+                <Node name="Level2" expanded="True">
+                  <Node name="Scripts level2" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7efd8ce-b7b2-4238-9e2f-8689c1c7e2d8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

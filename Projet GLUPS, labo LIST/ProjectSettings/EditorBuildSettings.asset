@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/splash screen.unity
+    guid: c5f809a22dce44e75b7bfca25246785e
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Levels Map.unity
+    guid: 7302ad45ed0b7904fa38f988d43f033e
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Histoire de jeu.unity
+    guid: 828cd0150782dbe4fb2d18b0a166f241
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Exemple de jeu.unity
+    guid: 636864fba8c439d42a8cd6e68e2fa925
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Play Level1.unity
+    guid: 4068318ddc15bc94eb16b69cc2180f08
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8nes LEVEL2/Main scene Level2.unity"
+    guid: 419de6828fd4ebf4a94d273733ec5c38
+  - enabled: 1
+    path: "Assets/Scenes/sc\xE8nes LEVEL2/Play Level2 Scene3.unity"
+    guid: e488ecb372eeabf4cab068f56c66822b
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Scene final.unity
+    guid: c7694bf523c557047a8c465690254d72
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/A propos.unity
+    guid: 610990f326eb6884697c26403f3e2dcc
+  - enabled: 1
+    path: Assets/Scenes/mainSceneAndLevel1/Main scene.unity
+    guid: f332b3c546b59654c958be2296c4814b
+  m_configObjects: {}

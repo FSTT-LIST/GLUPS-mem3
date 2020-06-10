@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: f7cfa4273d1e242ed896aada87c46176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4533572802678098749
+    second: MyFloweeer_0
+  - first:
+      213: -645412953974577771
+    second: MyFloweeer_1
+  - first:
+      213: 8170795214566975721
+    second: MyFloweeer_2
+  - first:
+      213: -7927726572873978929
+    second: MyFloweeer_3
+  - first:
+      213: -6658524741669521855
+    second: MyFloweeer_4
+  - first:
+      213: 5309307061606184568
+    second: MyFloweeer_5
+  - first:
+      213: 2973283905484461238
+    second: MyFloweeer_6
+  - first:
+      213: -7447112867523970691
+    second: MyFloweeer_7
+  - first:
+      213: 8455576105844471081
+    second: MyFloweeer_8
+  - first:
+      213: 770789436042446163
+    second: MyFloweeer_9
+  - first:
+      213: 3571977412019703667
+    second: MyFloweeer_10
+  - first:
+      213: 1964801736126856166
+    second: MyFloweeer_11
+  - first:
+      213: -5091249944042147045
+    second: MyFloweeer_12
+  - first:
+      213: 805098800856953227
+    second: MyFloweeer_13
+  - first:
+      213: -8632699857101794964
+    second: MyFloweeer_14
+  - first:
+      213: -7510650419265360623
+    second: MyFloweeer_15
+  - first:
+      213: 5568503058188811570
+    second: MyFloweeer_16
+  - first:
+      213: 1872074790392731265
+    second: MyFloweeer_17
+  - first:
+      213: -5136034033597211754
+    second: MyFloweeer_18
+  - first:
+      213: 8586134418421501674
+    second: MyFloweeer_19
+  - first:
+      213: 1476764527380302591
+    second: MyFloweeer_20
+  - first:
+      213: 2989908701694024485
+    second: MyFloweeer_21
+  - first:
+      213: -8570956785480275963
+    second: MyFloweeer_22
+  - first:
+      213: -2429794974339784839
+    second: MyFloweeer_23
+  - first:
+      213: 6922759267060626432
+    second: MyFloweeer_24
+  - first:
+      213: 5576750234107175867
+    second: MyFloweeer_25
+  - first:
+      213: 7160313433959276397
+    second: MyFloweeer_26
+  - first:
+      213: 3166100132282047486
+    second: MyFloweeer_27
+  - first:
+      213: 2363702485422633913
+    second: MyFloweeer_28
+  - first:
+      213: -2586030242358144637
+    second: MyFloweeer_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MyFloweeer_0
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 74
+        width: 1071
+        height: 2268
+      alignment: 9
+      pivot: {x: 0.50392175, y: 0.09683538}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4fffc4e838511c0800000000000000
+      internalID: -4533572802678098749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_1
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 2330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e8e086580b07f0800000000000000
+      internalID: -645412953974577771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_2
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 2330
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e9b8f4fe746170800000000000000
+      internalID: 8170795214566975721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_3
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 74
+        width: 899
+        height: 1559
+      alignment: 9
+      pivot: {x: 0.5173663, y: 0.089842044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbeb635fae0bf190800000000000000
+      internalID: -7927726572873978929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_4
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1627
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14673ac960b2893a0800000000000000
+      internalID: -6658524741669521855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_5
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1630
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876728284a27ea940800000000000000
+      internalID: 5309307061606184568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_6
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 1627
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b499ca75f9334920800000000000000
+      internalID: 2973283905484461238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_7
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1627
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793ef0bd4a86a890800000000000000
+      internalID: -7447112867523970691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_8
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 74
+        width: 653
+        height: 1016
+      alignment: 9
+      pivot: {x: 0.50059205, y: 0.17607948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f3203bad385570800000000000000
+      internalID: 8455576105844471081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_9
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1082
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550fe388e462ba00800000000000000
+      internalID: 770789436042446163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_10
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1054
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4725f786329130800000000000000
+      internalID: 3571977412019703667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 890
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb79efd4c0644b10800000000000000
+      internalID: 1964801736126856166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_12
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 874
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13f3a6862f3859b0800000000000000
+      internalID: -5091249944042147045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_13
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 849
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81fb2208194c2b00800000000000000
+      internalID: 805098800856953227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 411
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d1ecc73d723880800000000000000
+      internalID: -8632699857101794964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 413
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dac8f9c3fc4c790800000000000000
+      internalID: -7510650419265360623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 411
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d350a370c474d40800000000000000
+      internalID: 5568503058188811570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 413
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186925a6a12faf910800000000000000
+      internalID: 1872074790392731265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 74
+        width: 482
+        height: 327
+      alignment: 9
+      pivot: {x: 0.4648688, y: 0.3578422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1f11224429b8b0800000000000000
+      internalID: -5136034033597211754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_19
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec4c323c3182770800000000000000
+      internalID: 8586134418421501674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_20
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 397
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa866f63858e7410800000000000000
+      internalID: 1476764527380302591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 395
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b525b7f1a4e7920800000000000000
+      internalID: 2989908701694024485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086938e638dd0980800000000000000
+      internalID: -8570956785480275963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 381
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f927d2852a74ed0800000000000000
+      internalID: -2429794974339784839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 363
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00431b200e4921060800000000000000
+      internalID: 6922759267060626432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 322
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e8018ac8946d40800000000000000
+      internalID: 5576750234107175867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_26
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 75
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9997912b8e5360800000000000000
+      internalID: 7160313433959276397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_27
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 78
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1dfbab4f30fb20800000000000000
+      internalID: 3166100132282047486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_28
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f25613ee8dc020800000000000000
+      internalID: 2363702485422633913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyFloweeer_29
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 78
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38153d922339c1cd0800000000000000
+      internalID: -2586030242358144637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
